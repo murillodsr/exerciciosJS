@@ -1,7 +1,7 @@
-/*  2 Dado um vetor de números, como poderia ser realizada a soma de todos os valores pares utilizando 
-    reduce e filter.*/
+/*  2 Dado um vetor de números, como poderia ser realizada a soma de todos os valores pares alem de dobrar 
+esse valores utilizando reduce e filter.*/
 
-//vetor 
+
 //MAP: utilizado para extrair dados, processamento de dados...
 //     utilizando const garante que o vetor original não sofrera mudança
 
